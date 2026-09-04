@@ -3,7 +3,10 @@
     "",
     "\\.github",
     "\\.github\\workflows",
-    "\\public"
+    "\\public",
+    "\\src",
+    "\\src\\pages"
   ],
+  "SelectedNode": "\\src\\pages\\index.js",
   "PreviewInSolutionExplorer": false
 }
